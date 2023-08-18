@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    scroll-behavior: smooth;
+}
+
+@layer utilities {
+    .left-border{
+        @apply rounded-tl-2xl rounded-bl-2xl rounded-tr-none rounded-br-none
+    }
+    .right-border{
+        @apply rounded-tr-2xl rounded-br-2xl rounded-tl-none rounded-bl-none
+    }
+    .initial-border-top{
+        @apply rounded-tl-2xl rounded-tr-2xl 
+    }
+    .initial-border-bottom{
+        @apply rounded-bl-2xl rounded-br-2xl 
+    }
+}
