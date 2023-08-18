@@ -2,7 +2,7 @@ const projects = [
     {
         id: 1,
         num:1,
-        img: "/Assets/Weather.png",
+        img: "/Assets/WhatsApp Image 2023-08-18 at 19.07.58.jpg",
         name: "Neural Style Transfer",
         about: `I have developed a web application using Streamlit that performs neural style transfer. This technique allows you to apply the style of one image (referred to as the ”style image”) onto another image (referred to as the ”content image”), resulting in a visually appealing combination of the two. The app utilizes a pre-trained VGG-19 model, which has been trained on a large dataset of images.`,
         tech: ["Python"],

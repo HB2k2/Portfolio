@@ -82,7 +82,7 @@ function App() {
         {projects.map(createProject)}
       </div>
       <Contact />
-      <p className="text-[#f9fafb] bg-[#111827] font-thin font-mono text-center text-xs text-blue-400 pb-1">-A N I L-</p>
+      <p className="text-[#f9fafb] bg-[#111827] font-thin font-mono text-center text-xs text-blue-400 pb-1">-H I T E S H-</p>
     </div>
   );
 }
