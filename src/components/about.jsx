@@ -3,7 +3,6 @@ import React from "react";
 function About(){
     return(
         <div className="w-[90%] ml-auto mr-auto md:flex md:justify-evenly md:p-10">
-            {/* <img className="p-5 md:w-[25%] md:p-0" src="/Assets/Anil-1.jpg" alt="Myimage"/> */}
             <div className="flex justify-center md:order-first md:justify-end">
                 <div className="relative h-[380px] w-[320px] md:h-[460px] md:w-[380px] lg:h-[520px] lg:w-[440px]">
                     <img

@@ -16,7 +16,7 @@ function Contact(){
                 <a href="https://github.com/HB2k2" target="blank"><Github className="stroke-gray-600 cursor-pointer hover:scale-125 hover:stroke-neutral-800"/></a>
                 <a href="https://www.linkedin.com/in/hitesh-bharadwaj-vemprala-6844b8229/" target="blank"><Linkedin className="stroke-gray-600 cursor-pointer hover:scale-125 hover:stroke-sky-300"/></a>
                 <a href="https://www.instagram.com/hiteshbharadwaj526/" target="blank"><Instagram className="stroke-gray-600 cursor-pointer hover:scale-125  hover:stroke-red-400"/></a>
-                {/* <a href="https://twitter.com/anil_koduru12?t=HxktXYBje9wR3NscIcPArQ&s=09" target="blank"><Twitter className="stroke-gray-600 cursor-pointer hover:scale-125 hover:stroke-cyan-900"/></a> */}
+                {/* <a href="https://twitter.com" target="blank"><Twitter className="stroke-gray-600 cursor-pointer hover:scale-125 hover:stroke-cyan-900"/></a> */}
             </div>
         </div>
     )
