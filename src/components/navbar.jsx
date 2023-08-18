@@ -88,7 +88,7 @@ export function StickyNavbar() {
               size="sm"
               className="hidden lg:inline-block"
             >
-              <a href="https://drive.google.com/file/d/1pSEsqmre-5SbxXvsC7qT8g_1-3-Z-9os/view" target="blank"><span>Resume</span></a>
+              <a href="https://docs.google.com/document/u/0/d/16_2D7WejHDwO2mS3H7oFwiyjf7ZIcCBUZnjwByBRPfg/edit?pli=1" target="blank"><span>Resume</span></a>
             </Button>
             <IconButton
               variant="text"
